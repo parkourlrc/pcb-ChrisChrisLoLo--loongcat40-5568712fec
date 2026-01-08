@@ -3,6 +3,7 @@ A 4x10 gasket mounted keyboard featuring a large OLED. A culmination of 5 years 
 
 <img src="https://github.com/ChrisChrisLoLo/loongcat40/blob/main/images/PXL_20251116_045329065.jpg?raw=true" width="500">
 
+Get PCBs here if you're in the EU!: https://keycapsss.com/Loongcat40-PCB/KC10265
 
 ## status
 - v0.1 pcbs have been produced but not yet tested.
